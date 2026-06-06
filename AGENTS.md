@@ -38,7 +38,7 @@ AI routing only. Keep token use low. Do not read every doc by default.
 - C++-first gameplay logic.
 - Before suggesting or creating Unreal C++ class names, check parent type and avoid duplicate Unreal prefixes such as `AAPlayerCharacter`.
 - Blueprint limited to tuning, presentation, UI wiring, and quick prototypes.
-- Small 3-person student team, about 5 weeks. Avoid heavy process.
+- Small 4-person student team, 2026.06.15-2026.07.24. Avoid heavy process.
 - AI-generated code must follow team ownership, style, review, and verification rules.
 
 ## Ask Before
